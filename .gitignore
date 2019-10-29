@@ -1,0 +1,5 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Compilador/analizador gramaticaunidad1/.vs/analizador gramaticaunidad1/v15/Server/sqlite3
