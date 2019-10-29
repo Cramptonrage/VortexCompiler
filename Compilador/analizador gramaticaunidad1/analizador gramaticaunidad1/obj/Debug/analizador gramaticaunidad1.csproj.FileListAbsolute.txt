@@ -1,0 +1,180 @@
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\Irony.dll
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojAssemblyReference.cache
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.cache
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CoreCompileInputs.cache
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CopyComplete
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\miguelangel\source\repos\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojResolveAssemblyReference.cache
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.Cache
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\mscorlib.dll
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\System.Net.Http.dll
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\System.Net.Http.xml
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\es\mscorlib.resources.dll
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normidna.nlp
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfc.nlp
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfd.nlp
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkc.nlp
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkd.nlp
+C:\Users\TEC\Desktop\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojResolveAssemblyReference.cache
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.Cache
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\mscorlib.dll
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\es\mscorlib.resources.dll
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normidna.nlp
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfc.nlp
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfd.nlp
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkc.nlp
+D:\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkd.nlp
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojResolveAssemblyReference.cache
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.Cache
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\mscorlib.dll
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\es\mscorlib.resources.dll
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normidna.nlp
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfc.nlp
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfd.nlp
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkc.nlp
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkd.nlp
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\Irony.dll
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojAssemblyReference.cache
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.cache
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CoreCompileInputs.cache
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CopyComplete
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\miguelangel\Downloads\analizador gramaticaunidad1-20190831T010603Z-001\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojResolveAssemblyReference.cache
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.Cache
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\mscorlib.dll
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\es\mscorlib.resources.dll
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normidna.nlp
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfc.nlp
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfd.nlp
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkc.nlp
+D:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkd.nlp
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojAssemblyReference.cache
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.cache
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CoreCompileInputs.cache
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CopyComplete
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+G:\Pro log\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\Kuto.dll
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\Irony.dll
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\Kuto.dll
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojAssemblyReference.cache
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.cache
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CoreCompileInputs.cache
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CopyComplete
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\miguelangel\Music\comino\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\System.Net.Http.dll
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\System.Net.Http.xml
+C:\Users\TEC\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\mscorlib.dll
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normidna.nlp
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfc.nlp
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfd.nlp
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkc.nlp
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\normnfkd.nlp
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojResolveAssemblyReference.cache
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Form1.resources
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.Cache
+C:\Users\Jorge luis\Documents\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojAssemblyReference.cache
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.cache
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CopyComplete
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.PERAcode.resources
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\SyntaxHighlighter.dll
+C:\Users\Oscar Rdz\Documents\PERAcode\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\SyntaxHighlighter.pdb
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe.config
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.exe
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\analizador gramaticaunidad1.pdb
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\bin\Debug\SyntaxHighlighter.pdb
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.ResolveComReference.cache
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.PERAcode.resources
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador_gramaticaunidad1.Properties.Resources.resources
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.csproj.CopyComplete
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.exe
+C:\Users\oscar\OneDrive\Documentos\visual studio\Compilador\analizador gramaticaunidad1\analizador gramaticaunidad1\obj\Debug\analizador gramaticaunidad1.pdb
